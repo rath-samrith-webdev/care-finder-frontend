@@ -1,9 +1,9 @@
 @font-face {
-  font-family: "BatamBang";
+  font-family: "KohSantepheap-Regular";
   src: url("./assets/fonts/KohSantepheap-Regular.ttf");
 }
 :root {
-  font-family: Inter, "BatamBang", system-ui, Avenir, Helvetica, Arial,
+  font-family: Inter, "KohSantepheap", system-ui, Avenir, Helvetica, Arial,
     sans-serif;
   line-height: 1.5;
   font-weight: 400;
